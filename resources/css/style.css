@@ -21,3 +21,11 @@ body a {
     color: aquamarine;
 
 }
+
+div video {
+    position:absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    padding-top: 80px;
+
+}
