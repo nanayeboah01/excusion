@@ -3,6 +3,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 background-color: black;
 color: white;
 font-weight: normal;
+text-align: center;
 
 }
 
@@ -23,9 +24,7 @@ body a {
 }
 
 div video {
-    position:absolute;
-    left: 50%;
-    transform: translateX(-50%);
-    padding-top: 80px;
+    padding-top: 50px;
 
 }
+
